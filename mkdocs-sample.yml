@@ -1,7 +1,7 @@
 # Project information
 site_name: 'Tugas Komnum'
 site_description: 'MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions.'
-site_author: 'peaceiris'
+site_author: 'DipoLahelas'
 site_url: 'https://dipolahelas.github.io/komnum/'
 
 # Copyright
