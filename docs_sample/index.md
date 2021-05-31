@@ -16,8 +16,6 @@ NIM   : 190411100082
 
 Kelas : Komnum A
 
-Dosen : []
-
 
 ## Quick start
 

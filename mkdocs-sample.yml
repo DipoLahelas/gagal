@@ -66,7 +66,7 @@ extra:
 
 # Page tree
 nav:
-  - 'Home': 'index.md'
+  - 'Home': 'Index.md'
   - 'Material for MkDocs': 'material-for-mkdocs.md'
   - 'Integrasi Numerik': 'integrasi.md'
   - 'Getting started':
